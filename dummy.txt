@@ -1,6 +1,2 @@
 welcome to git
-helooooo
-ooooooooooooooooooooooooo
 done 111111111111111
-done 222222222222222
-done 444444444444444
